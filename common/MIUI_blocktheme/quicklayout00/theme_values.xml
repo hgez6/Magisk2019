@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+<integer name="quick_settings_num_columns">5</integer><!--快捷磁贴列数-->
+</MIUI_Theme_Values>

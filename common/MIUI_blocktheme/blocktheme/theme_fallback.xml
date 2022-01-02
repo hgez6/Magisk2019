@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values>
+	<!-- 2018.8.4 by 天命233-->
+	<drawable name="notification_item_expanded_bg_n.9.png">notification_item_bg_n.9.png</drawable>
+	<drawable name="notification_item_expanded_children_bg_n.9.png">notification_item_bg_n.9.png</drawable>
+		<drawable name="notification_panel_bg_keyguard.9.png">notification_item_bg_n.9.png</drawable>
+	<drawable name="qs_detail_bg.9.png">notification_item_bg_n.9.png</drawable>
+			<drawable name="qs_customizer_background.9.png">notification_item_bg_n.9.png</drawable>
+	<drawable name="qs_detail_background.9.png">notification_item_bg_n.9.png</drawable>			
+	<drawable name="panel_round_corner_bg.9.png">notification_item_bg_n.9.png</drawable>
+<drawable name="qs_customizer_bg.9.png">notification_item_bg_n.9.png</drawable>
+<drawable name="qs_detail_bg.9.png">notification_item_bg_n.9.png</drawable>
+	</MIUI_Theme_Values>
